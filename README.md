@@ -9,7 +9,7 @@
  - Move in WhatsappBOT repository  `cd WhatsappBOT`
  - Create new virtual python environment  `python3 -m venv venv`
  - Activate virtual python environment  `source venv/bin/activate`
- - Install all the libraries mentioned in [requirements.txt](https://github.com/aydinnyunus/WhatsappBOT/blob/master/requirements.txt) using  `pip install -r requirements.txt`
+ - Install all the libraries mentioned in [requirements.txt](https://github.com/ERASTUSG/whatsapp-Bot/blob/master/requirements.txt) using  `pip install -r requirements.txt`
  - Run Python file  `python WhatsappBot.py`
  
 # Directory Tree :cactus:
