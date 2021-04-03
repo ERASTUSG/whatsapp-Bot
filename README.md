@@ -1,11 +1,11 @@
 # WhatsappBOT :robot:
- - Send messages to any person in any time.
+ - Send messages to any person(s) any time.
  - Just change the chromedriver or geckodriver location in WhatsappBot.py and enjoy it.
  
  [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
 # How to run the project? :thinking:
- - Clone github repository in your local system  `git clone https://github.com/aydinnyunus/WhatsappBOT.git`
+ - Clone github repository in your local system  `git clone https://github.com/ERASTUSG/whatsapp-Bot.git`
  - Move in WhatsappBOT repository  `cd WhatsappBOT`
  - Create new virtual python environment  `python3 -m venv venv`
  - Activate virtual python environment  `source venv/bin/activate`
@@ -54,13 +54,13 @@
 **3).** Third Option: If you want send one message many person, you should choice this option. **Example:** In important days like holidays and feasts. You need to enter message and phone number here.  <br><br>
 ![github-small](images/Option3.jpeg)
 
-**4).** Fourth Option: This option provides if you busy with your job and forget send important message to anyone. Just use it set hour and seconds just like `12:00`.   <br><br>
+**4).** Fourth Option: This option provides if you're busy with your job and forgot send important message to anyone. Just use it set hour and seconds just like `12:00`.   <br><br>
 ![github-small](images/Option4.jpeg)
 
 ## Bug / Feature Request :man_technologist:
-If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/aydinnyunus/WhatsappBOT/issues/new) by including your search query and the expected result.
+If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ERASTUSG/whatsapp-Bot/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/aydinnyunus/WhatsappBOT/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ERASTUSG/whatsapp-Bot/issues/new). Please include sample queries and their corresponding results.
 
 It is my first application with GUI.Thank you !.
 
