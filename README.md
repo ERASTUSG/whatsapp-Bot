@@ -36,26 +36,28 @@
 
 2 directories, 16 files
 ```
+🙌
  
 ## ScreenShot :camera_flash:
 
-**1).** This is the Main Page of the application. First Option provides send as many messages as you want to a person. <br><br>
-![github-small](images/Main.jpeg)
+**1).** This is the Main Page of the application. First Option provides send as many messages as you want to a person. <br><br>![Main](https://user-images.githubusercontent.com/6681933/113485573-ea40b500-94b6-11eb-904f-792ad14ec40d.jpeg)
+
 
  - This is the input part. You enter Phone Number with country code, Message and Number of Messages. I don't try the maximum message capacity but you can try.  <br><br>
-![github-small](images/Option1.jpeg)
+
 
  - Result of the First Option. I tried send to 'Merhaba' ten times. <br><br>
-![github-small](images/Option1R.jpeg)
+![Option1](https://user-images.githubusercontent.com/6681933/113485656-5de2c200-94b7-11eb-9872-985829d613cb.jpeg)
 
-**2).** This is the Second Option. This provides send message in specific month and day. You can add all of your relationships in the input part. Input part saves input in the [birthday.json](https://github.com/aydinnyunus/WhatsappBOT/blob/master/birthdays.json) and you run the program it's control the dates and if it matches, bot send it.  <br><br>
-![github-small](images/Option2.jpeg)
+**2).** This is the Second Option. This provides send message in specific month and day. You can add all of your relationships in the input part. Input part saves input in the [birthday.json](https://github.com/ERASTUSG/whatsapp-Bot/blob/master/birthdays.json) and you run the program it's control the dates and if it matches, bot send it.  <br><br>
+![Option2](https://user-images.githubusercontent.com/6681933/113485686-810d7180-94b7-11eb-82e4-458e34b882fb.jpeg)
+
 
 **3).** Third Option: If you want send one message many person, you should choice this option. **Example:** In important days like holidays and feasts. You need to enter message and phone number here.  <br><br>
-![github-small](images/Option3.jpeg)
+
 
 **4).** Fourth Option: This option provides if you're busy with your job and forgot send important message to anyone. Just use it set hour and seconds just like `12:00`.   <br><br>
-![github-small](images/Option4.jpeg)
+
 
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ERASTUSG/whatsapp-Bot/issues/new) by including your search query and the expected result.
@@ -66,7 +68,7 @@ It is my first application with GUI.Thank you !.
 
 ## Connect with me! 🌐
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/yunus-ayd%C4%B1n-b9b01a18a/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/aydinnyunus/WhatsappBOT)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/aydinyunus_/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="LinkedIn">](https://twitter.com/aydinnyunuss)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/yunus-ayd%C4%B1n-b9b01a18a/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/ERASTUSG/whatsapp-Bot)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/aydinyunus_/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="LinkedIn">](https://twitter.com/aydinnyunuss)
 
 
 
