@@ -8,6 +8,19 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+import pygame
+#import OS
+
+# Initiating Pygame
+#pygame.init()
+# Initiating Pygame Mixer
+pygame.mixer.init()
+# Loading Selected Song
+pygame.mixer.music.load("You And I - Acoustic Version.mp3")
+# Playing Selected Song
+pygame.mixer.music.play(loops=-1)
+
+
 
 now = datetime.now()
 
